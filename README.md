@@ -54,7 +54,10 @@ print(w)
 
 ## Output:
 ![164034199-e68286fe-b42c-4439-af8e-678c98bb33dd](https://user-images.githubusercontent.com/75235601/164071970-0b0b583d-b2f2-4e99-b50c-a74f6d9a3598.jpeg)
+```
 
+
+```
 
 ## Result:
 Thus the Back Propagation with Single Neuron was successfully implemented using python programming.
